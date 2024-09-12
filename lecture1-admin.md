@@ -1,4 +1,3 @@
-/*
 Topics:
   1.  Problem Solving Paradigms
   2.  Paradigms
@@ -27,4 +26,3 @@ Assessment Breakdown:
 Problem Diary:
   - documents weekly problem sets
   - written on formatif, submitted/marked in workshop
-*/
